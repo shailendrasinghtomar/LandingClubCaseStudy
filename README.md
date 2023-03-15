@@ -3,29 +3,29 @@ Project:- Lending club case study
 Dataset:- Lending club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. 
 
 
-*Problem statement
+### Problem statement
 The objective of analysis is to use the information about past loan applicants and find whether they ‘defaulted’ or not.
 We will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
-## Table of Contents
+### Table of Contents
 
 
-* Technologies Used
+####  Technologies Used
 
-1.)Data Cleaning
-2.)Data understanding
-3.)Univariate analysis
-4.)Bivariate analysis
-5.)Multivariate analysis
-6.)Recommendations
+* Data Cleaning
+* Data understanding
+* Univariate analysis
+* Bivariate analysis
+* Multivariate analysis
+* Recommendations
 
-*Librabies used
+####   Librabies used
 1.)Pandas
 2.)Numpy
 3.)Seaborn
 4.)Matplotlib
 
-* Conclusions
+####  Conclusions
 1.)Large scale businesses are the highest revenue generators by far even though  percentage of charged off amount might be same.
 2.)The default rate is high in 60 months tenure because most people took high loan amount with high interest rate in it and they faced difficulties in returning the sum to bank.
 3.)The customers with high number of derogatory public records have a significantly higher chance of defaulting on there repayments .
