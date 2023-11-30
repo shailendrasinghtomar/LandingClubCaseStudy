@@ -1,4 +1,4 @@
-Project:- Lending club case study
+Project:- Lending club case study 
 
 Dataset:- Lending club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. 
 
